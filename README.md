@@ -1,4 +1,5 @@
-<Lista de Compras>
+<h1>Lista de compras</h1>
+<hr>
 <h3>!Projeto não original!</h3>
 <hr>
 <img src="https://github.com/euonael/lista-de-compras/assets/95258490/14a9b2dc-b56d-49c0-8cd0-dbc15486d123">
