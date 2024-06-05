@@ -1,30 +1,27 @@
-<h1>Lista de compras</h1>
-<hr>
-<h3>!Projeto não original!</h3>
-<hr>
-<img src="https://github.com/euonael/lista-de-compras/assets/95258490/14a9b2dc-b56d-49c0-8cd0-dbc15486d123">
+# Lista de Compras
 
-<h1>Arquivos</h1>
-<hr>
-<ul>
-  <li>HTML - index</li>
-  <li>CSS - style</li>
-  <li>JS - script</li>
-  <li>Imagens - img pasta</li>
-</ul>
-<hr>
+Este é um projeto de uma lista de compras simples, originalmente criado por [fulano](link do perfil do criador original).
 
-<h1> Como Instalar </h1>
-<hr>
-<ul>
-  <li>Clique na opção "<> Code"</li>
-    <img src="https://github.com/euonael/Riot-site/assets/95258490/ccac6b41-c59f-4078-9c06-4614189a2458">
-    <p>Você verá um menu</p>
-    <hr>
-  <li>Clique em "Download Zip"</li>
-    <img src="https://github.com/euonael/Riot-site/assets/95258490/bff69f9d-0f30-4ef3-a44f-e09704cf103b">
-    <p>O arquivo vai para sua pasta de download</p>
-    <hr>
-    <p>Após isso basta "deszipar" o arquivo clicando na opção "extrair aqui", dai pra frente sinta-se a vontade para fazer suas modificações e atualizações.</p>
-</ul>
+## Funcionalidades
 
+- Permite adicionar itens à lista de compras.
+- Possibilita marcar os itens como concluídos após a compra.
+- Permite remover itens da lista.
+
+## Tecnologias Utilizadas
+
+- HTML
+- CSS
+- JavaScript
+
+## Como Utilizar
+
+1. Clone este repositório em sua máquina local.
+2. Abra o arquivo `index.html` em seu navegador web.
+3. Adicione os itens que deseja comprar na lista.
+4. Marque os itens como concluídos após a compra.
+5. Remova os itens da lista quando não forem mais necessários.
+
+## Nota Importante
+
+Este projeto não foi originalmente criado apenas fiz algumas alterações.
